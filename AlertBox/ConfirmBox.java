@@ -1,4 +1,4 @@
-package sample.AlertBox;
+package sample.JavaFX.AlertBox;
 
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

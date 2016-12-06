@@ -1,4 +1,4 @@
-package sample.MultiScenes;
+package sample.JavaFX.MultiScenes;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
